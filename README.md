@@ -1,4 +1,6 @@
-<img src="./Bocchi-the-Rock/kessoku-band-sakuraTree.png" alt="Github Show Image">
+<div align="center">
+  <img src="Bocchi-the-Rock/kessoku-band-sakuraTree.png" alt="Github Image">
+</div>
 
 <br>
 
