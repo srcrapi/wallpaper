@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>
     <img src="Bocchi-the-Rock/kessoku-band-sakuraTree.png" alt="Github-Image">
-  <h1>
 </div>
 
 <br>
