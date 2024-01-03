@@ -2,8 +2,6 @@
     <img src="Bocchi-the-Rock/kessoku-band-sakuraTree.png" alt="Github-Image">
 </div>
 
-<br>
-
 # My wallpaper collection
 
 - **Genshin Impact**
