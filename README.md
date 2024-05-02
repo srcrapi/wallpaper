@@ -10,6 +10,10 @@
   - Bocchi the Rock Characters
 - **Anime Characters**
   - Anime Characters
+- **Honkai Star Rail**
+  - Honkai Star Rail Characters
+- **Others**
+  - All other things without the above categories
 
 # Disclaimer
 
