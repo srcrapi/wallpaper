@@ -12,6 +12,8 @@
   - Anime Characters
 - **Honkai Star Rail**
   - Honkai Star Rail Characters
+- **Vtubers**
+  - Vtubers
 - **Others**
   - All other things without the above categories
 
